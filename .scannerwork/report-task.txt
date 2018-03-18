@@ -1,0 +1,7 @@
+organization=royconejo-github
+projectKey=ciaa_firmwarev2_r0.2.0__santiago_germino
+serverUrl=https://sonarcloud.io
+serverVersion=7.1.0.37735
+dashboardUrl=https://sonarcloud.io/dashboard/index/ciaa_firmwarev2_r0.2.0__santiago_germino
+ceTaskId=AWI6owPzV4Tcj4EG2ePh
+ceTaskUrl=https://sonarcloud.io/api/ce/task?id=AWI6owPzV4Tcj4EG2ePh
